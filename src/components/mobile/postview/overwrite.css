@@ -1,0 +1,11 @@
+button.control-arrow {
+  border-radius: 0;
+}
+
+.carousel .control-dots {
+  margin-left: -10px;
+}
+
+.carousel .slider-wrapper {
+  /*border-radius: 5px;*/
+}
